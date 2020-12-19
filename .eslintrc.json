@@ -18,5 +18,7 @@
         "react"
     ],
     "rules": {
+        "array-bracket-spacing": "error",
+        "object-curly-spacing": "error"
     }
 }
