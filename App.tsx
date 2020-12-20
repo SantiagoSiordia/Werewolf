@@ -1,10 +1,7 @@
 import React, { FC } from 'react';
-import { Text, View } from 'react-native';
+import Navigator from "./src/navigator/Navigator";
 
 const App: FC = () => (
-  <View>
-    <Text>Connnected!</Text>
-  </View>
+  <Navigator />
 );
-
 export default App;
